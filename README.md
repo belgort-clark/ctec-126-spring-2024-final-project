@@ -42,7 +42,7 @@ Use this page in Canvas to get started with creating your account and getting yo
   - The "title" of the article. Make the title a clickable link to the URL of the story
   - The story "abstract"
   - The story "byline"
-  - The "published date" in a format other than the one supplied. Take a look at moment.js reference in Canvas
+  - The "published date" in a format other than the one supplied.
   - One of the multimedia images for the news story
 - All of the news stories should be displayed using a "card" styling
 - All of your JavaScript code must be in the **js/nyt.js** file
