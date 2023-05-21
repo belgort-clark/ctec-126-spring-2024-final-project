@@ -1,5 +1,7 @@
 # CTEC 126 - Final Project
 
+Updated for Spring 2023
+
 ## Overview
 
 This assignment will have you develop a web page that displays news stories from the New York Times. The stories will be retrieved using JavaScript fetch() (AJAX) calls to the application programming interface (API) provided by the New York Times.
@@ -22,9 +24,8 @@ Your page must allow users to display news from the following sections from the 
 
 ## Getting an API Key
 
-You will need an API key in order to communicate with the API.
-
-Use this page in Canvas to get started with creating your account and getting your own API key [https://clarkcollege.instructure.com/courses/2059544/pages/read-getting-started-with-the-nyt-api?module_item_id=54836194](https://clarkcollege.instructure.com/courses/2059544/pages/read-getting-started-with-the-nyt-api?module_item_id=54836194).
+- You will need an API key in order to communicate with the API.
+- Use the page in Canvas to obtain your API key.
 
 1. A folder named **test-api-key** which has a file named **test_api_key.html** that includes some very simple JavaScript has been provided to help you test your key. Look for the place in the code to insert your API key.
 2. Test your API key. If it's not working, contact the instructor as soon as possible.
@@ -48,5 +49,6 @@ Use this page in Canvas to get started with creating your account and getting yo
 - All of your JavaScript code must be in the **js/nyt.js** file
 - Your page needs to be styled using the **nyt.css** stylesheet and look professional
 - Your HTML and CSS must validate
+- You must not have any WAVE errors, alerts or contrast errors
 - Push your code back to GitHub when you have completed the assignment
 - Submit the words "Ready to Grade" in Canvas
