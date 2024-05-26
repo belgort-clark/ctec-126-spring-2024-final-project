@@ -1,6 +1,6 @@
 # CTEC 126 - Final Project
 
-Updated for Spring 2023
+Updated for Spring 2024
 
 ## Overview
 
@@ -47,7 +47,7 @@ Your page must allow users to display news from the following sections from the 
   - One of the multimedia images for the news story
 - All of the news stories should be displayed using a "card" styling
 - All of your JavaScript code must be in the **js/nyt.js** file
-- Your page needs to be styled using the **nyt.css** stylesheet and look professional
+- Your page needs to be styled using the **nyt.css** stylesheet and look professional. This will count for 40% of this projects grade.
 - Your HTML and CSS must validate
 - You must not have any WAVE errors, alerts or contrast errors
 - Push your code back to GitHub when you have completed the assignment
