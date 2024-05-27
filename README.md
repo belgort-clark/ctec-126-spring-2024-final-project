@@ -49,6 +49,7 @@ Your page must allow users to display news from the following sections from the 
 - All of your JavaScript code must be in the **js/nyt.js** file
 - Your page needs to be styled using the **nyt.css** stylesheet and look professional. This will count for 40% of this projects grade.
 - Your HTML and CSS must validate
+- You must record a video showing off your work and code
 - You must not have any WAVE errors, alerts or contrast errors
 - Push your code back to GitHub when you have completed the assignment
 - Submit the words "Ready to Grade" in Canvas
