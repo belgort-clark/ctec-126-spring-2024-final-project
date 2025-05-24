@@ -1,6 +1,6 @@
 # CTEC 126 - Final Project
 
-Updated for Spring 2024
+Updated for Spring 2025
 
 ## Overview
 
@@ -24,17 +24,17 @@ Your page must allow users to display news from the following sections from the 
 
 ## Getting an API Key
 
-- You will need an API key in order to communicate with the API.
+- You will need an API key to communicate with the API.
 - Use the page in Canvas to obtain your API key.
 
-1. A folder named **test-api-key** which has a file named **test_api_key.html** that includes some very simple JavaScript has been provided to help you test your key. Look for the place in the code to insert your API key.
-2. Test your API key. If it's not working, contact the instructor as soon as possible.
-3. Now that you have your API key and have tested it, you are ready to start coding.
+1. A folder named **test-api-key** with a file called **test_api_key.html** that includes some straightforward JavaScript has been provided to help you test your key. Look for the place in the code where you can insert your API key.
+2. Test your API key. If it's not working, please contact the instructor as soon as possible.
+3. Now that you have your API key and have tested it, you can start coding.
 
 ## Assignment Details
 
 - Your page must show all of the stories returned from the API.
-- An HTML ```<select>``` control should be used that allows a person to select the news section they want to retrieve stories from.
+- An HTML ```<select>``` control should allow a person to select the news section they want to retrieve stories from.
 - The stories should be loaded on page load.
 - When the user selects another news section, only the stories section of the page should reload. The entire page MUST NOT reload.
 - A Refresh button must be provided that allows a person to click it to get the latest stories.
@@ -47,7 +47,7 @@ Your page must allow users to display news from the following sections from the 
   - One of the multimedia images for the news story
 - All of the news stories should be displayed using a "card" styling
 - All of your JavaScript code must be in the **js/nyt.js** file
-- Your page needs to be styled using the **nyt.css** stylesheet and look professional. This will count for 40% of this projects grade.
+Your page needs to be professionally styled using the nyt.css stylesheet. This will count for 40% of this project's grade.
 - Your HTML and CSS must validate
 - You must record a video showing off your work and code
 - You must not have any WAVE errors, alerts or contrast errors
